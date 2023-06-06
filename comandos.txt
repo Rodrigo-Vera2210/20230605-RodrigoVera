@@ -1,0 +1,13 @@
+$ git init
+$ git remote add origin https://github.com/Rodrigo-Vera2210/20230605-RodrigoVera.git
+$ touch comandos.txt main.js index.html
+$ git add .
+$ git commit -m "01 de Rodrigo Vera"
+$ git push -u origin main
+$ git checkout -b feature
+$ mkdir Hardware Software SeguridadInformatica
+$ touch  Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+$ git push -u origin feature
+$ git commit -m "02 de Rodrigo Vera"
+$ echo -e "- RAM \n- Cache \n- ROM" >> resumenHardware.txt
+$ echo -e "- Visual Studio Code \n- Windows 11 \n- Google Chrome" >> resumenSoftware.txt

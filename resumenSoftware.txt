@@ -1,0 +1,3 @@
+- Visual Studio Code
+- Windows 11
+- Google Chrome
